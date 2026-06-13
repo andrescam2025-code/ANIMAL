@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260522214649M625EV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260522214649UFH5OK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mi primera clase digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779503049728</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>dbadc30a-b514-4b96-b8bb-7eb9dffee52a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>dbadc30a-b514-4b96-b8bb-7eb9dffee52a</odePageId>
+      <odeBlockId>block-1779504231390-bi0xx330g</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>dbadc30a-b514-4b96-b8bb-7eb9dffee52a</odePageId>
+          <odeBlockId>block-1779504231390-bi0xx330g</odeBlockId>
+          <odeIdeviceId>idevice-1779504231389-d3jbezbzt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Gemini_Generated_Image_6xycdc6xycdc6xyc.png" width="1408" height="768" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779504231389-d3jbezbzt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_6xycdc6xycdc6xyc.png\" width=\"1408\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779503070406-h0z9tx3p4</odePageId>
+  <odeParentPageId>dbadc30a-b514-4b96-b8bb-7eb9dffee52a</odeParentPageId>
+  <pageName>CONTENIDO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CONTENIDO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779503070406-h0z9tx3p4</odePageId>
+      <odeBlockId>block-1779503091557-ikhqgokj1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779503070406-h0z9tx3p4</odePageId>
+          <odeBlockId>block-1779503091557-ikhqgokj1</odeBlockId>
+          <odeIdeviceId>idevice-1779503091552-a7gpfbqef</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><em>NATURALEZA</em></strong></p>
+<p style="text-align: center;"><strong><em>La diferencia principal es que los vertebrados tienen un esqueleto interno con columna vertebral que sostiene su cuerpo y protege su cerebro, mientras que los invertebrados carecen por completo de huesos. Debido a esto, los vertebrados suelen ser más grandes y complejos, como los perros, las aves o los peces.</em></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779503091552-a7gpfbqef","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><em>NATURALEZA</em></strong></p>\n<p style=\"text-align: center;\"><strong><em>La diferencia principal es que los vertebrados tienen un esqueleto interno con columna vertebral que sostiene su cuerpo y protege su cerebro, mientras que los invertebrados carecen por completo de huesos. Debido a esto, los vertebrados suelen ser más grandes y complejos, como los perros, las aves o los peces.</em></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779503070406-h0z9tx3p4</odePageId>
+      <odeBlockId>block-1779503323532-7orvudk7s</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779503070406-h0z9tx3p4</odePageId>
+          <odeBlockId>block-1779503323532-7orvudk7s</odeBlockId>
+          <odeIdeviceId>idevice-1779503323527-tbywp4lae</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/nuevo.jpg" width="808" height="454" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779503323527-tbywp4lae","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/nuevo.jpg\" width=\"808\" height=\"454\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779503070406-h0z9tx3p4</odePageId>
+      <odeBlockId>block-1779503390913-d87x2zer3</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779503070406-h0z9tx3p4</odePageId>
+          <odeBlockId>block-1779503390913-d87x2zer3</odeBlockId>
+          <odeIdeviceId>idevice-1779503390909-0h7onapk6</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779503390909-0h7onapk6" title="" href="{{context_path}}/content/resources/insano.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/insano.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779503390909-0h7onapk6" title="" href="{{context_path}}/content/resources/pro.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/pro.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1779503390909-0h7onapk6" title="" href="{{context_path}}/content/resources/hacker.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/hacker.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779503390909-0h7onapk6","img_0":{"img":"{{context_path}}/content/resources/insano.jpg","thumbnail":"{{context_path}}/content/resources/insano.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/pro.jpg","thumbnail":"{{context_path}}/content/resources/pro.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/hacker.jpg","thumbnail":"{{context_path}}/content/resources/hacker.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779503083458-a5t68l2mn</odePageId>
+  <odeParentPageId>dbadc30a-b514-4b96-b8bb-7eb9dffee52a</odeParentPageId>
+  <pageName>ACTIVIDAD</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779503083458-a5t68l2mn</odePageId>
+      <odeBlockId>block-1779503775599-atngump7b</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779503083458-a5t68l2mn</odePageId>
+          <odeBlockId>block-1779503775599-atngump7b</odeBlockId>
+          <odeIdeviceId>idevice-1779503775595-etl92phov</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div id="juego-animales" style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
+<h3 style="color: #2c3e50;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Actividad: Clasificación de los Animales</span></span></h3>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Completa los espacios en blanco con las palabras correctas:</span></span></p>
+<div style="margin-bottom: 15px;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1.</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Los animales</span></span><input type="text" id="p1" style="padding: 5px; border: 1px solid #ccc;" /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">se caracterizan por poseer una</span></span><input type="text" id="p2" style="padding: 5px; border: 1px solid #ccc;" /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">vertebral y un esqueleto interno.</span></span></div>
+<div style="margin-bottom: 15px;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2.</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Los animales</span></span><input type="text" id="p3" style="padding: 5px; border: 1px solid #ccc;" /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">representan la mayoría de las especies y se definen por la ausencia de un soporte</span></span><input type="text" id="p4" style="padding: 5px; border: 1px solid #ccc;" /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">óseo interno.</span></span></div>
+<button onclick="verificarRespuestas()" style="background-color: #3498db; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">comprobar respuestas</span></span></button>
+<div id="resultado" style="margin-top: 20px; font-weight: bold;"></div>
+</div>
+<p>
+<script>
+function verificarRespuestas() {
+    // Respuestas correctas (se ignoran mayúsculas/minúsculas)
+    const r1 = "vertebrados";
+    const r2 = "columna";
+    const r3 = "invertebrados";
+    const r4 = "esquelético";
+
+    let aciertos = 0;
+
+    if (document.getElementById('p1').value.toLowerCase().trim() === r1) aciertos++;
+    if (document.getElementById('p2').value.toLowerCase().trim() === r2) aciertos++;
+    if (document.getElementById('p3').value.toLowerCase().trim() === r3) aciertos++;
+    
+    // Verificación especial para permitir "esqueletico" con o sin tilde
+    let p4 = document.getElementById('p4').value.toLowerCase().trim();
+    if (p4 === "esquelético" || p4 === "esqueletico") aciertos++;
+
+    const resultadoDiv = document.getElementById('resultado');
+    if (aciertos === 4) {
+        resultadoDiv.style.color = "#27ae60";
+        resultadoDiv.innerHTML = "¡Excelente! Has completado todas las oraciones correctamente.";
+    } else {
+        resultadoDiv.style.color = "#e74c3c";
+        resultadoDiv.innerHTML = "Has acertado " + aciertos + " de 4. ¡Sigue intentándolo!";
+    }
+}
+</script>
+</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779503775595-etl92phov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div id=\"juego-animales\" style=\"font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;\">\n<h3 style=\"color: #2c3e50;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Actividad: Clasificación de los Animales</span></span></h3>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Completa los espacios en blanco con las palabras correctas:</span></span></p>\n<div style=\"margin-bottom: 15px;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1.</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Los animales</span></span><input type=\"text\" id=\"p1\" style=\"padding: 5px; border: 1px solid #ccc;\" /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">se caracterizan por poseer una</span></span><input type=\"text\" id=\"p2\" style=\"padding: 5px; border: 1px solid #ccc;\" /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">vertebral y un esqueleto interno.</span></span></div>\n<div style=\"margin-bottom: 15px;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2.</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Los animales</span></span><input type=\"text\" id=\"p3\" style=\"padding: 5px; border: 1px solid #ccc;\" /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">representan la mayoría de las especies y se definen por la ausencia de un soporte</span></span><input type=\"text\" id=\"p4\" style=\"padding: 5px; border: 1px solid #ccc;\" /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">óseo interno.</span></span></div>\n<button onclick=\"verificarRespuestas()\" style=\"background-color: #3498db; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">comprobar respuestas</span></span></button>\n<div id=\"resultado\" style=\"margin-top: 20px; font-weight: bold;\"></div>\n</div>\n<p>\n<script>\nfunction verificarRespuestas() {\n    // Respuestas correctas (se ignoran mayúsculas/minúsculas)\n    const r1 = \"vertebrados\";\n    const r2 = \"columna\";\n    const r3 = \"invertebrados\";\n    const r4 = \"esquelético\";\n\n    let aciertos = 0;\n\n    if (document.getElementById('p1').value.toLowerCase().trim() === r1) aciertos++;\n    if (document.getElementById('p2').value.toLowerCase().trim() === r2) aciertos++;\n    if (document.getElementById('p3').value.toLowerCase().trim() === r3) aciertos++;\n    \n    // Verificación especial para permitir \"esqueletico\" con o sin tilde\n    let p4 = document.getElementById('p4').value.toLowerCase().trim();\n    if (p4 === \"esquelético\" || p4 === \"esqueletico\") aciertos++;\n\n    const resultadoDiv = document.getElementById('resultado');\n    if (aciertos === 4) {\n        resultadoDiv.style.color = \"#27ae60\";\n        resultadoDiv.innerHTML = \"¡Excelente! Has completado todas las oraciones correctamente.\";\n    } else {\n        resultadoDiv.style.color = \"#e74c3c\";\n        resultadoDiv.innerHTML = \"Has acertado \" + aciertos + \" de 4. ¡Sigue intentándolo!\";\n    }\n}\n</script>\n</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
